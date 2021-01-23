@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:16.04
 
 LABEL maintainer="i0z0mu@gmail.com"
 
