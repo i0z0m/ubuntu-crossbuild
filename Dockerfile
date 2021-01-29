@@ -2,7 +2,7 @@ FROM ubuntu:16.04
 
 LABEL maintainer="i0z0mu@gmail.com"
 
-RUN apt-get update && apt-get install -y \
+RUN apt update && apt install -y \
     wget \
     perl \
     gawk \
