@@ -14,6 +14,9 @@ $ file a.out
 a.out: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.3, for GNU/Linux 3.2.0, not stripped
 ```
 
+## TODO
+use GNU Stow to manage local build.
+
 ## コメント
 
 [各種アーキテクチャのクロスコンパイラ環境を構築する](http://inaz2.hatenablog.com/entry/2015/12/01/204201)を再現し，  
