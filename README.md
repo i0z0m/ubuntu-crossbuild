@@ -17,7 +17,7 @@ a.out: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), dynamically linke
 ## TODO
 use GNU Stow to manage local build.
 
-## コメント
+## Acknowledgment
 
 [各種アーキテクチャのクロスコンパイラ環境を構築する](http://inaz2.hatenablog.com/entry/2015/12/01/204201)を再現し，  
 [inaz2/debian-crossbuild](https://hub.docker.com/r/inaz2/debian-crossbuild/)の ARM のみ縮小版を作成した．
