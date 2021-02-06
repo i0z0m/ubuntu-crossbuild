@@ -20,7 +20,8 @@ use GNU Stow to manage local build.
 ## Acknowledgment
 
 [各種アーキテクチャのクロスコンパイラ環境を構築する](http://inaz2.hatenablog.com/entry/2015/12/01/204201)を再現し，  
-[inaz2/debian-crossbuild](https://hub.docker.com/r/inaz2/debian-crossbuild/)の ARM のみ縮小版を作成した．
+[inaz2/debian-crossbuild](https://hub.docker.com/r/inaz2/debian-crossbuild/)の ARM のみ縮小版を作成しました．  
+今さら真似たい人は，[坂井弘亮『大熱血！ アセンブラ入門』](http://kozos.jp/books/asm/)の方を参照してください．
 
 autotools と docker を使う構築構築を練習しただけ．  
 実用向けの ARM 用クロスコンパイラは  
