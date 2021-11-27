@@ -25,4 +25,7 @@ use GNU Stow to manage local build.
 
 autotools と docker を使う構築構築を練習しただけ．  
 実用向けの ARM 用クロスコンパイラは  
-$ `sudo apt install gcc-arm-linux-gnueabihf`
+
+```console
+$ sudo apt install gcc-arm-linux-gnueabihf
+```
